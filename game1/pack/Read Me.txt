@@ -1,0 +1,3 @@
+the arrow buttons move you 
+
+the enemies chase you don't get caugt
